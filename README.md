@@ -12,6 +12,11 @@ A curated list of Awesome DZ Dev
 * https://www.facebook.com/groups/dzdevs is the most active
 * https://www.facebook.com/groups/DZGoogleDevelopers
 
+## Blogs
+
+* https://mohamedallam.tech
+* https://nazimboudeffa.netlify.app
+
 ## Works
 
 * https://github.com/IshakBenfredj/dakirni
