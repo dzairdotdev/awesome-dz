@@ -9,8 +9,9 @@ A curated list of Awesome DZ Dev
 
 ## Discussion Groups
 
-* https://www.facebook.com/groups/dzdevs is the most active
-* https://www.facebook.com/groups/DZGoogleDevelopers
+* https://www.facebook.com/groups/dzdevs Facebook, is the most active
+* https://www.facebook.com/groups/DZGoogleDevelopers Facebook
+* https://www.dzcode.io Slack
 
 ## Blogs
 
