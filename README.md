@@ -7,6 +7,7 @@ A curated list of Awesome DZ Dev
 * https://www.usthb.dz/fr/page/237
 * https://www.facebook.com/NIT-Numidia-Institute-of-Technology-104869421584439 Site down
 * https://harmash.com
+* https://elzero.org
 
 ## Discuss
 
