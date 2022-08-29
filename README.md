@@ -1,6 +1,6 @@
 # Awesome DZair
 
-A curated list of Awesome DZ Dev
+A curated list of Awesome DZ Tech
 
 ## Learn
 
