@@ -19,6 +19,7 @@ A curated list of Awesome DZ Tech
 
 * https://mohamedallam.tech
 * https://nazimboudeffa.netlify.app
+* https://chaoui.substack.com/
 
 ## Works
 
