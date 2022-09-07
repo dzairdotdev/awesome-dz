@@ -28,6 +28,7 @@ A curated list of Awesome DZ Tech
 * https://github.com/fouadhakim18/Pet-Shop Available on IO
 * https://github.com/hamadi-walid/BMJ Available on IO
 * https://github.com/amarouldhamadouche/food-delivery-website
+* https://github.com/silikan/Silikan
 
 ## Portfolios
 
