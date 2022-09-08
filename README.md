@@ -29,6 +29,7 @@ A curated list of Awesome DZ Tech
 * https://github.com/hamadi-walid/BMJ Available on IO
 * https://github.com/amarouldhamadouche/food-delivery-website
 * https://github.com/silikan/Silikan
+* https://github.com/khaledxyz/Valkyrie
 
 ## Portfolios
 
