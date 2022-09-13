@@ -8,6 +8,7 @@ A curated list of Awesome DZ Tech
 * https://www.facebook.com/NIT-Numidia-Institute-of-Technology-104869421584439 Site down
 * https://harmash.com
 * https://elzero.org Not really Algerian but it's in arabic/egyptian
+* https://www.youtube.com/c/ProgrammingAdvices egypt again
 
 ## Discuss
 
