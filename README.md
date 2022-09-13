@@ -45,4 +45,8 @@ A curated list of Awesome DZ Tech
 
 * https://www.rsolution.dz
 * http://www.rksoft-dz.com
+* https://www.webly-dz.com
 
+## Web Sites
+
+* https://homtaf.com/
