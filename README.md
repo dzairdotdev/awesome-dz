@@ -41,6 +41,7 @@ A curated list of Awesome DZ Tech
 * http://woujoud.net Source not available
 * https://cylent-palladium.netlify.app/
 * https://portfolio.octabloom.com/
+* https://www.zakwick.com/
 
 ## Web Agencies
 
