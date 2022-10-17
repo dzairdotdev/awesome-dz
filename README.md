@@ -14,7 +14,7 @@ A curated list of Awesome DZ Tech
 
 * https://www.facebook.com/groups/dzdevs Facebook, is the most active
   * DZ Développeurs Discord https://discord.gg/YGbTmMwU3S
-  * DZ.DEV Discord https://discord.gg/fbC2BMdkVc
+  * DZ.DEV Discord https://discord.gg/aMtkCs4bh3 
 * https://www.facebook.com/groups/DZGoogleDevelopers Facebook
 * https://www.dzcode.io There is a Slack
 
