@@ -40,6 +40,7 @@ A curated list of Awesome DZ Tech
 * https://cylent-palladium.netlify.app/
 * https://portfolio.octabloom.com/
 * https://www.zakwick.com/
+* https://rezigdev.com/
 
 ## Web Agencies
 
