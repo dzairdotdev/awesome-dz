@@ -31,6 +31,7 @@ A curated list of Awesome DZ Tech
 * https://github.com/silikan/Silikan
 * https://github.com/khaledxyz/Valkyrie
 * https://github.com/raid-teyar/SpotifyPlaylistDownloader
+* https://github.com/modecode22/profile
 
 ## Portfolios
 
